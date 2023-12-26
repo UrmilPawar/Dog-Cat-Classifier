@@ -4,5 +4,5 @@
 - The Accuracy acheived was nearly 74%
 
 # Following are the images
-![img-1](images/img1)
-![img-2](images/img2)
+![img-1](images/img1.png)
+![img-2](images/img2.png)
